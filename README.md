@@ -1,6 +1,6 @@
 # Cooldown Tracking HUD
 
-Searches the active window for images and draws configurable progressbars once they appear. Created Progress Bar can have two stages; one to indicate a status effect timer and a second to indicate subsequent cooldown timer.
+Searches the active window for images and draws configurable progressbars once they appear. Created Progress Bar can have two stages; one to indicate a status effect timer and a second to indicate a subsequent cooldown timer.
 
 Uses the windows API to draw the progress bar to the screen. Designed to have minimal dependance on high level external libraries. 
 
