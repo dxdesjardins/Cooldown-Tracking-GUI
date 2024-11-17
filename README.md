@@ -30,5 +30,6 @@ myProgressBar = ProgressBar(
     0x00000000, # ProgressBar2 foreground color (black) (indicating a cooldown timer)
     0x00FFA500, # ProgressBar1 background color (light blue) (indicating a status effect timer)
     0x00FFA500, # ProgressBar2 background color (light blue) (indicating a cooldown timer)
-    15)
+    15 # Do not re-create this progress bar for at least 15
+)
 ```
